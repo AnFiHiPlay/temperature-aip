@@ -1,0 +1,100 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background: linear-gradient(135deg, #2c3e50, #4ca1af);
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.app {
+  text-align: center;
+  width: 90%;
+  max-width: 800px;
+}
+
+.weather-input {
+  margin-top: 20px;
+}
+
+.weather-input input {
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  width: 70%;
+}
+
+.weather-input button {
+  margin-left: 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.weather-input button:hover {
+  background-color: #0056b3;
+}
+
+.weather-display {
+  margin-top: 40px;
+}
+
+.temperature-circle {
+  margin: 0 auto;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-size: 36px;
+  font-weight: bold;
+  transition: background-color 0.5s ease;
+}
+
+.weather-info {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.history {
+  margin-top: 30px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+  color: white;
+}
+
+table th,
+table td {
+  border: 1px solid white;
+  padding: 10px;
+  text-align: center;
+}
+
+button {
+  padding: 10px 20px;
+  margin-top: 10px;
+  background-color: #ff4c4c;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #cc0000;
+}
