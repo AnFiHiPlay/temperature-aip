@@ -71,7 +71,7 @@ function App() {
         <div className="weather-input">
           <input
             type="text"
-            placeholder="Введите город"
+            placeholder="Введите город:"
             value={city}
             onChange={(e) => setCity(e.target.value)}
           />
