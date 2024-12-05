@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/temperature-aip2/static/css/main.e8d6c5ef.css",
-    "main.js": "/temperature-aip2/static/js/main.1a8920ca.js",
-    "static/js/453.22c72308.chunk.js": "/temperature-aip2/static/js/453.22c72308.chunk.js",
-    "index.html": "/temperature-aip2/index.html",
-    "main.e8d6c5ef.css.map": "/temperature-aip2/static/css/main.e8d6c5ef.css.map",
-    "main.1a8920ca.js.map": "/temperature-aip2/static/js/main.1a8920ca.js.map",
-    "453.22c72308.chunk.js.map": "/temperature-aip2/static/js/453.22c72308.chunk.js.map"
+    "main.css": "/temperature-aip/static/css/main.e8d6c5ef.css",
+    "main.js": "/temperature-aip/static/js/main.6eaab154.js",
+    "static/js/453.22c72308.chunk.js": "/temperature-aip/static/js/453.22c72308.chunk.js",
+    "index.html": "/temperature-aip/index.html",
+    "main.e8d6c5ef.css.map": "/temperature-aip/static/css/main.e8d6c5ef.css.map",
+    "main.6eaab154.js.map": "/temperature-aip/static/js/main.6eaab154.js.map",
+    "453.22c72308.chunk.js.map": "/temperature-aip/static/js/453.22c72308.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e8d6c5ef.css",
-    "static/js/main.1a8920ca.js"
+    "static/js/main.6eaab154.js"
   ]
 }
